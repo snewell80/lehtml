@@ -4,4 +4,34 @@
 .nav-spacing{
 	margin: 0 0 0 10px;
 }
-	
+.image-link{
+	text-decoration: none;
+}
+.header-alignment{
+	text-align: center; 
+	margin: 0 0 80px;
+}
+.intro-image{
+	display: block; 
+	margin: 0 auto;
+}
+.report-container{
+	width: 500px; 
+	margin: 20px auto; 
+	padding: 30px;
+    background-color: #fafafa;
+}
+.book-cover-image{
+	float: left; 
+	margin: 0 40px 0 0;
+}
+.blockquote-styling{
+	font-style: italic; 
+	font-size: 20px;
+}
+.blockquote-emphasis{
+	font-style: normal; 
+	font-size: 24px; 
+	font-weight: bold;
+    color: #cccccc;
+}
